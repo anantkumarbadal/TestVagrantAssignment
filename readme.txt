@@ -5,4 +5,5 @@ Steps followed:-
 4. added dependencies
 5. both Test cases done - successfully
 6. run each test cases as testNG test
+7. I have used Java-RestAssured library for this assignment
 

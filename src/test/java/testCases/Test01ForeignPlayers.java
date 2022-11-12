@@ -29,7 +29,7 @@ public class Test01ForeignPlayers {
             }
 
         }
-        System.out.println("Foreign Players: "+ countForeignPlayers);
+        System.out.println("Foreign Players Count: "+ countForeignPlayers);
 
         Assert.assertEquals(countForeignPlayers, 4);
 

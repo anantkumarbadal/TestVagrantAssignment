@@ -10,7 +10,7 @@ public class Test01ForeignPlayers {
     @Test
     public void validateForeignPlayer() {
 
-        System.out.println("Validate that the team has only 4 foreign players");
+        System.out.println("Validating that the team has only 4 foreign players");
 
         JsonPath js = new JsonPath(Payload.players());
 

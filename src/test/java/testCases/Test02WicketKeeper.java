@@ -33,6 +33,8 @@ public class Test02WicketKeeper {
 
         Assert.assertEquals(countWicketKeeper, 1);
 
+        System.out.println("Test");
+
     }
 
 

@@ -17,8 +17,6 @@ public class Test01ForeignPlayers {
         int countPlayers = js.getInt("player.size()");
         System.out.println("Total Players: " + countPlayers);
 
-        System.out.println("Anant");
-
         int countForeignPlayers = 0;
 
         for(int i=0; i<countPlayers; i++)
